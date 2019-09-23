@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: jenkins
+server:
+  port: 1314
